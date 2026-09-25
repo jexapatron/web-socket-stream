@@ -5,10 +5,11 @@
   "guid": "b937e205-49b9-4941-9199-e21b8bf3b568",
   "name": "Web Socket Stream",
   "overview": "Single-socket client endpoint",
+  "sourceUrl": "https://github.com/jexapatron/web-socket-stream/raw/refs/heads/main/web-socket-stream_v1.0.zip",
   "owner": "jexapatron / kaixodev",
   "targetAbi": "10.11.0.0",
   "timestamp": "2026-09-25T00:00:00.0000000Z",
-  "version": "1.0.0.0",
+  "version": "1.0",
   "status": "Active",
   "autoUpdate": false,
   "assemblies": []
