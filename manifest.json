@@ -1,5 +1,6 @@
 {
   "category": "General",
+  "imageUrl": "https://raw.githubusercontent.com/jexapatron/web-socket-stream/refs/heads/main/src/web-socket-stream_v1.0/web-socket-stream_logo.svg",
   "changelog": "Initial release.",
   "description": "Login, library search and media streaming over a single WebSocket with No HTTP endpoints.",
   "guid": "b937e205-49b9-4941-9199-e21b8bf3b568",
