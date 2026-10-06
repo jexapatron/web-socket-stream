@@ -1,17 +1,20 @@
-{
-  "category": "General",
-  "imageUrl": "https://raw.githubusercontent.com/jexapatron/web-socket-stream/refs/heads/main/src/web-socket-stream_v1.0/web-socket-stream_logo.svg",
-  "changelog": "Initial release.",
-  "description": "Login, library search and media streaming over a single WebSocket with No HTTP endpoints.",
-  "guid": "b937e205-49b9-4941-9199-e21b8bf3b568",
-  "name": "Web Socket Stream",
-  "overview": "Single-socket client endpoint",
-  "sourceUrl": "https://github.com/jexapatron/web-socket-stream/raw/refs/heads/main/web-socket-stream_v1.0.zip",
-  "owner": "jexapatron / kaixodev",
-  "targetAbi": "10.11.0.0",
-  "timestamp": "2026-09-25T00:00:00.0000000Z",
-  "version": "1.0",
-  "status": "Active",
-  "autoUpdate": false,
-  "assemblies": []
-}
+[
+  {
+    "name": "Jellyfin wss",
+    "guid": "f69e946a-4b3c-4e9a-8f0a-8d7c1b2c4d9b",
+    "overview": "Jellyfin wss",
+    "description": "test",
+    "owner": "jexapatron",
+    "category": "General",
+    "imageUrl": "https://raw.githubusercontent.com/n00bcodr/Jellyfin-Enhanced/master/docs/images/icon.png",
+    "versions": [
+      {
+        "changelog": "Initial",
+        "targetAbi": "12.0.0.0",
+        "version": "12.11.0.0",
+        "sourceUrl": "https://github.com/jexapatron/web-socket-stream/raw/dc29a59dbfcfdac413fab11de9229bdff46223c4/web-socket-stream_v1.0.zip",
+        "checksum": "167BDEBB473CFEFE7DFC0B4F2EE0DF38",
+        "timestamp": "2026-10-04T14:30:13"
+      }
+    ]
+]
